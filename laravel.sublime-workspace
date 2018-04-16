@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Sess",
+				"Session::flush\tRemove All Items from the Session"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"B_",
+				"B_NAM"
+			],
+			[
+				"CASE",
+				"CASE_NAM_LONG"
+			],
+			[
+				"c",
+				"colspan\tAttr"
+			],
+			[
+				"row",
+				"rowCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/Controllers/PostController.php",
+			"settings":
+			{
+				"buffer_size": 5279,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "composer.json",
+			"settings":
+			{
+				"buffer_size": 1416,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/app.php",
+			"settings":
+			{
+				"buffer_size": 8643,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/blog/single.blade.php",
+			"settings":
+			{
+				"buffer_size": 2023,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "resources/views/posts/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 2000,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "database/migrations/2017_01_17_061817_add_image_col_to_posts.php",
+			"settings":
+			{
+				"buffer_size": 615,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 368.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/test",
+		"/D/xampp/htdocs/test/app",
+		"/D/xampp/htdocs/test/app/Http",
+		"/D/xampp/htdocs/test/app/Http/Controllers",
+		"/D/xampp/htdocs/test/config",
+		"/D/xampp/htdocs/test/database",
+		"/D/xampp/htdocs/test/database/migrations",
+		"/D/xampp/htdocs/test/public",
+		"/D/xampp/htdocs/test/public/css",
+		"/D/xampp/htdocs/test/resources",
+		"/D/xampp/htdocs/test/resources/views",
+		"/D/xampp/htdocs/test/resources/views/comments",
+		"/D/xampp/htdocs/test/resources/views/emails",
+		"/D/xampp/htdocs/test/resources/views/tags"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/test/bootstrap/app.php",
+		"/D/xampp/htdocs/test/config/app.php",
+		"/D/xampp/htdocs/test/resources/views/posts/show.blade.php",
+		"/D/xampp/htdocs/test/resources/views/blog/index.blade.php",
+		"/D/xampp/htdocs/test/resources/views/blog/single.blade.php",
+		"/D/xampp/htdocs/test/resources/views/pages/welcome.blade.php",
+		"/D/xampp/htdocs/test/resources/views/posts/edit.blade.php",
+		"/D/xampp/htdocs/test/resources/views/posts/index.blade.php",
+		"/D/xampp/htdocs/test/resources/views/posts/create.blade.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/CommentsController.php",
+		"/D/xampp/htdocs/test/app/Http/routes.php",
+		"/D/xampp/htdocs/test/resources/views/comments/delete.blade.php",
+		"/D/xampp/htdocs/test/resources/views/comments/edit.blade.php",
+		"/D/xampp/htdocs/test/resources/views/comments/show.blade.php",
+		"/D/xampp/htdocs/test/public/css/style.css",
+		"/D/xampp/htdocs/test/app/Comment.php",
+		"/D/xampp/htdocs/test/app/Post.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_17_033459_create_comments_table.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/PagesController.php",
+		"/D/xampp/htdocs/test/resources/views/emails/contact.blade.php",
+		"/D/xampp/htdocs/test/resources/views/pages/contact.blade.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/PostController.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/TagController.php",
+		"/D/xampp/htdocs/test/resources/views/tags/show.blade.php",
+		"/D/xampp/htdocs/test/resources/views/tags/edit.blade.php",
+		"/D/xampp/htdocs/test/resources/views/tags/index.blade.php",
+		"/D/xampp/htdocs/test/public/js/select2.min.js",
+		"/D/xampp/htdocs/test/public/css/select2.min.css",
+		"/D/xampp/htdocs/test/resources/views/categories/index.blade.php",
+		"/D/xampp/htdocs/test/app/Tag.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_16_095445_create_tags_table.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_16_095614_create_post_tag_table.php",
+		"/D/xampp/htdocs/test/resources/views/partials/_nav.blade.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/CategoryController.php",
+		"/D/xampp/htdocs/test/app/Category.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_16_090856_create_categories_table.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_16_091016_add_category_id_to_posts.php",
+		"/D/xampp/htdocs/test/.env",
+		"/D/xampp/htdocs/test/app/Http/Controllers/Auth/AuthController.php",
+		"/D/xampp/htdocs/test/app/Http/Middleware/Authenticate.php",
+		"/D/xampp/htdocs/test/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/Auth/PasswordController.php",
+		"/D/xampp/htdocs/test/resources/views/partials/_head.blade.php",
+		"/D/xampp/htdocs/test/resources/views/main.blade.php",
+		"/D/xampp/htdocs/test/config/mail.php",
+		"/D/xampp/htdocs/test/resources/views/auth/login.blade.php",
+		"/D/xampp/htdocs/test/resources/views/auth/passwords/email.blade.php",
+		"/D/xampp/htdocs/test/resources/views/auth/passwords/reset.blade.php",
+		"/D/xampp/htdocs/test/resources/views/passwords/email.blade.php",
+		"/D/xampp/htdocs/test/resources/views/auth/register.blade.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/BlogController.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_16_032901_add_slug_to_users.php",
+		"/D/xampp/htdocs/test/resources/views/pages/about.blade.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_12_082702_create_posts_table.php",
+		"/D/xampp/htdocs/test/composer.json",
+		"/D/xampp/htdocs/test/resources/views/welcome.blade.php",
+		"/D/xampp/htdocs/test/resources/views/partials/_messages.blade.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/Auth/PagesController.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/PostsController.php",
+		"/D/xampp/htdocs/test/resources/views/partials/_message.blade.php",
+		"/D/xampp/htdocs/test/config/database.php",
+		"/D/xampp/htdocs/test/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/D/xampp/htdocs/test/resources/views/_head.blade.php",
+		"/D/xampp/htdocs/test/resources/views/partials/_javascript.blade.php",
+		"/D/xampp/htdocs/test/resources/views/partials/_footer.blade.php",
+		"/D/xampp/htdocs/test/resources/views/about.blade.php",
+		"/D/xampp/htdocs/test/resources/views/contact/index.blade.php",
+		"/D/xampp/htdocs/test/resources/views/partials/nav.blade.php",
+		"/D/xampp/htdocs/test/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php",
+		"/D/xampp/htdocs/test/resources/views/child.blade.php",
+		"/D/xampp/htdocs/test/resources/views/welcome2.blade.php",
+		"/D/xampp/htdocs/test/storage/logs/laravel.log",
+		"/D/xampp/htdocs/test/app/Contact.php",
+		"/D/xampp/htdocs/test/app/Http/Controllers/ContactUsController.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_06_065132_create_contact3s_table.php",
+		"/D/xampp/htdocs/test/database/migrations/2017_01_06_035949_create_contacts_table.php",
+		"/D/wagon/uwamp/www/laravel/app/Http/routes.php",
+		"/D/php/admin_UTF8/lib/Sql_ra01.inc",
+		"/D/php/admin_UTF8/sec/sep02.php",
+		"/D/php/admin_UTF8/sec/ln01detail.php",
+		"/D/php/admin_UTF8/sec/sep06.php",
+		"/D/php/admin_UTF8/pda/pda02maintain.php",
+		"/D/php/admin_UTF8/lib/MakeCond_S.php",
+		"/D/php/admin_UTF8/pda/pda03amaintain.php",
+		"/D/php/admin_UTF8/sec/se01_7maintain.php",
+		"/D/php/admin_UTF8/lib/search.inc",
+		"/D/php/admin_UTF8/lib/PageGo.php",
+		"/D/php/admin_UTF8/lib/ChangeOrder.php",
+		"/D/php/admin_UTF8/pda/pda02detail.php",
+		"/D/php/admin_UTF8/lib/TitleList.inc",
+		"/D/php/admin_UTF8/sec/se01_4maintain.php",
+		"/D/php/admin_UTF8/lib/merge_watermark.php",
+		"/D/php/admin_UTF8/sec/book_show.php",
+		"/D/php/admin_UTF8/lib/watermark.class.php",
+		"/D/php/admin_UTF8/lib/_notes/dwsync.xml",
+		"/D/php/admin_UTF8/basic/formstock_chg.php",
+		"/D/php/admin_UTF8/sec/book_show.php.20160530",
+		"/D/php/admin_UTF8/sec/book_index.php",
+		"/D/php/admin_UTF8/js/swfupload/updatepic.php",
+		"/D/php/admin_UTF8/lib/images_proc.php",
+		"/D/php/admin_UTF8/james/ChangeOrder.php",
+		"/D/php/admin_UTF8/sec/sep05outdetial.php",
+		"/D/php/admin_UTF8/basic/st02maintain.php",
+		"/D/php/admin_UTF8/house/land2nhout.php",
+		"/D/php/admin_UTF8/arh/arhrp11out.php",
+		"/D/php/admin_UTF8/basic/st02detail.php",
+		"/D/php/admin_UTF8/order/order02maintain.php",
+		"/D/php/admin_UTF8/basic/ag03n.php",
+		"/D/php/admin_UTF8/basic/ag03m.php",
+		"/D/php/admin_UTF8/basic/ag03gen.php",
+		"/D/php/admin_UTF8/house/land2nhrpt_search.php",
+		"/D/php/admin_UTF8/house/land2nhrpt.php",
+		"/D/php/admin_UTF8/house/landf011maintain.php",
+		"/D/php/admin_UTF8/sec/se01_15maintain.php",
+		"/D/php/admin_UTF8/fpdf/chinese.php",
+		"/D/php/admin_UTF8/ryan/test4.php",
+		"/D/php/admin_UTF8/sec/sep01out-00-ab.php",
+		"/D/php/admin_UTF8/match/_get_area.php",
+		"/D/php/admin_UTF8/basic/ag02maintain.php",
+		"/D/php/admin_UTF8/basic/ag01maintain.php",
+		"/D/php/admin_UTF8/admin/fix_rights.php",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/D/php/admin_UTF8/basic/ag04maintain.php",
+		"/D/php/admin_UTF8/setting/DBSetup.inc",
+		"/D/php/admin_UTF8/basic/ag04detail.php",
+		"/D/php/admin_UTF8/apograph/apographsearch.php",
+		"/D/php/admin_UTF8/tools/google/NewGoogleMapUpd.php",
+		"/D/php/admin_UTF8/lib/config.php.970707"
+	],
+	"find":
+	{
+		"height": 57.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\test",
+			"D:\\php\\admin_UTF8\\",
+			"D:\\php\\admin_UTF8\\lib",
+			"D:\\php\\admin_UTF8"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<div class=\"col-md-8 col-md-offset-2\">",
+			"body",
+			"<h1>{{ $post->title }}</h1",
+			"tags",
+			"ection('title', '| Edit Blog Post')",
+			"form",
+			"getLogin",
+			"styles.css",
+			"getLogin",
+			"redirectTo ",
+			"Form::label('body",
+			"{{ Form::label('body', ",
+			":text('title', null, array(",
+			"Create",
+			"cont",
+			"validator",
+			"mysql",
+			"default",
+			"d",
+			"default",
+			"submitContact",
+			"PASSWORD",
+			"$oSTID",
+			"if( $oSTID != $STID )",
+			"T5326",
+			"$CP9",
+			"T5326",
+			"PICTURE9",
+			"file_exists($file)",
+			"PICTURE5",
+			"畫面上呈現照片的大小",
+			"委託",
+			"exit",
+			"STR_DATE",
+			"ITEM_NO",
+			"item_no",
+			"OrderbyCondition",
+			"SearchString1",
+			"OrderbyCondition",
+			"page",
+			"$MainKey",
+			"wm_instance",
+			"OrderbyCondition",
+			"changeorder.php",
+			"orde",
+			"include",
+			"PageGo",
+			"pagego.php",
+			"專任約",
+			"交易價金：",
+			"Sthow15",
+			"Vl_car",
+			"Vl_KIND_ID",
+			"Vl_price",
+			"PB_NAM",
+			"PS_NAM",
+			"S_NAM",
+			"S_NAM\nS_NAM",
+			"S_NAM",
+			"SB_R",
+			"TitleTxt",
+			"Header",
+			"成屋產",
+			"TitleTxt",
+			"public",
+			"user_id",
+			"交易價金：",
+			"租",
+			"項目及負擔方式",
+			"空",
+			"說明書產制中",
+			"PrintType",
+			"說明書產制",
+			"租",
+			"if",
+			"public",
+			"$public",
+			"ARID",
+			"key",
+			"record_key",
+			"方轉公開之預設天數",
+			"public",
+			"update",
+			"聯盟店編號",
+			"update",
+			"image",
+			"OB01/TL03",
+			"floatingImage",
+			"getimagesize",
+			"POST",
+			"from",
+			"特種貨物",
+			"權利面積",
+			"LR_RegTrust_DESC",
+			"簽約時買",
+			"無限制登記情",
+			"group by",
+			"地價稅",
+			"房屋稅",
+			"times",
+			"契約書編號",
+			"Times",
+			"uniKai",
+			"契約書編號",
+			"地價稅",
+			"依稅捐稽徵機關核發之繳",
+			"房地合一課徵",
+			"地合一課徵所得",
+			"土地增值",
+			"地價稅",
+			"$pdf->SetFont('uniKai'",
+			"group by GUID,LNAM",
+			"$s90",
+			"LNAM",
+			"LNAM\nLNAM",
+			"LNAM",
+			"landownership",
+			"ftf011 where NOTE_NO='$txtNOTE_NO' order b",
+			"管理費",
+			"SetFont",
+			"約潤筆",
+			"page",
+			"new",
+			"PS.說明",
+			"捐稽徵機關核發",
+			"種貨物及",
+			"地價",
+			"$r90"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/Controllers/PostController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2004,
+								2004
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1071.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "composer.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config/app.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8631,
+								8631
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/blog/single.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								184
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/posts/create.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2000,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1402,
+								1402
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "database/migrations/2017_01_17_061817_add_image_col_to_posts.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 615,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								459
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "laravel.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"resources/views/posts/create.blade.php",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"resources/views/blog/single.blade.php",
+				"resources\\views\\blog\\single.blade.php"
+			],
+			[
+				"app",
+				"config\\app.php"
+			],
+			[
+				"app/http/controllers/postcontroller.php",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"config/app.php",
+				"config\\app.php"
+			],
+			[
+				"composer.json",
+				"composer.json"
+			],
+			[
+				"pp/http/controllers/postcontroller.php",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"resources/views/posts/show.blade.php",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"esources/views/posts/index.blade.php",
+				"resources\\views\\posts\\index.blade.php"
+			],
+			[
+				"resources/views/posts/edit.blade.php",
+				"resources\\views\\posts\\edit.blade.php"
+			],
+			[
+				"resources/views/pages/welcome.blade.php",
+				"resources\\views\\pages\\welcome.blade.php"
+			],
+			[
+				"resources/views/blog/index.blade.php",
+				"resources\\views\\blog\\index.blade.php"
+			],
+			[
+				"app/http/routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"app/http/controllers/commentscontroller.php",
+				"app\\Http\\Controllers\\CommentsController.php"
+			],
+			[
+				"create_comments_table.php",
+				"database\\migrations\\2017_01_17_033459_create_comments_table.php"
+			],
+			[
+				"app/post.php",
+				"app\\Post.php"
+			],
+			[
+				"app/comment.php",
+				"app\\Comment.php"
+			],
+			[
+				"resources/views/pages/contact.blade.php",
+				"resources\\views\\pages\\contact.blade.php"
+			],
+			[
+				"pp/http/routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"http/controllers/pagescontroller.php",
+				"app\\Http\\Controllers\\PagesController.php"
+			],
+			[
+				"resources/views/tags/show.blade.php",
+				"resources\\views\\tags\\show.blade.php"
+			],
+			[
+				"app/http/controllers/tagcontroller.php",
+				"app\\Http\\Controllers\\TagController.php"
+			],
+			[
+				"resources/views/tags/index.blade.php",
+				"resources\\views\\tags\\index.blade.php"
+			],
+			[
+				"/http/controllers/tagcontroller.php",
+				"app\\Http\\Controllers\\TagController.php"
+			],
+			[
+				"ces/views/posts/show.blade.php",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"sources/views/posts/create.blade.php",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"urces/views/tags/index.blade.php",
+				"resources\\views\\categories\\index.blade.php"
+			],
+			[
+				"iews/categories/index.blade.ph",
+				"resources\\views\\categories\\index.blade.php"
+			],
+			[
+				"esources/views/tags/index.blade.php",
+				"resources\\views\\categories\\index.blade.php"
+			],
+			[
+				"ags/index.blade.php",
+				"resources\\views\\categories\\index.blade.php"
+			],
+			[
+				"osts/show.blade.php",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"iews/posts/edit.blade.php",
+				"resources\\views\\posts\\edit.blade.php"
+			],
+			[
+				"posts/create.blade.php",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"tials/_nav.blade.php",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"create_post_tag_table.php",
+				"database\\migrations\\2017_01_16_095614_create_post_tag_table.php"
+			],
+			[
+				"create_tags_table.php",
+				"database\\migrations\\2017_01_16_095445_create_tags_table.php"
+			],
+			[
+				"pp/tag.php",
+				"app\\Tag.php"
+			],
+			[
+				"pp/post.php",
+				"app\\Post.php"
+			],
+			[
+				"ontrollers/tagcontroller.php",
+				"app\\Http\\Controllers\\TagController.php"
+			],
+			[
+				"controllers/postcontroller.php",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"partials/_nav.blade.php",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"ontrollers/categorycontroller.php",
+				"app\\Http\\Controllers\\CategoryController.php"
+			],
+			[
+				"single.blade.php",
+				"resources\\views\\blog\\single.blade.php"
+			],
+			[
+				"add_category_id_to_posts.php",
+				"database\\migrations\\2017_01_16_091016_add_category_id_to_posts.php"
+			],
+			[
+				"create_categories_table.php",
+				"database\\migrations\\2017_01_16_090856_create_categories_table.php"
+			],
+			[
+				"pp/category.php",
+				"app\\Category.php"
+			],
+			[
+				"passwords/email.blade.php",
+				"resources\\views\\passwords\\email.blade.php"
+			],
+			[
+				"nfig/mail.php",
+				"config\\mail.php"
+			],
+			[
+				"rollers/auth/passwordcontroller.php",
+				"app\\Http\\Controllers\\Auth\\PasswordController.php"
+			],
+			[
+				"resources/views/main.blade.php",
+				"resources\\views\\main.blade.php"
+			],
+			[
+				"s/views/main.blade.php",
+				"resources\\views\\main.blade.php"
+			],
+			[
+				"/middleware/authenticate.php",
+				"app\\Http\\Middleware\\Authenticate.php"
+			],
+			[
+				"http/controllers/postcontroller.php",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"auth/authcontroller.php",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"app/http/controllers/auth/authcontroller.php",
+				"app\\Http\\Controllers\\Auth\\AuthController.php"
+			],
+			[
+				"ews/partials/_nav.blade.php",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"p/http/routes.php",
+				"app\\Http\\routes.php"
+			],
+			[
+				"blogcontroller.php",
+				"app\\Http\\Controllers\\BlogController.php"
+			],
+			[
+				"show.blade.php",
+				"resources\\views\\posts\\show.blade.php"
+			],
+			[
+				"edit.b",
+				"resources\\views\\posts\\edit.blade.php"
+			],
+			[
+				"create",
+				"resources\\views\\posts\\create.blade.php"
+			],
+			[
+				"postcontroller.php",
+				"app\\Http\\Controllers\\PostController.php"
+			],
+			[
+				"rou",
+				"app\\Http\\routes.php"
+			],
+			[
+				"nav",
+				"resources\\views\\partials\\_nav.blade.php"
+			],
+			[
+				"head",
+				"resources\\views\\partials\\_head.blade.php"
+			],
+			[
+				"welcome.blade.ph",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"welcome",
+				"resources\\views\\welcome.blade.php"
+			],
+			[
+				"controllers/pagescontroller.php",
+				"app\\Http\\Controllers\\Auth\\PagesController.php"
+			],
+			[
+				"app/http/controllers/pagescontroller.php",
+				"app\\Http\\Controllers\\Auth\\PagesController.php"
+			],
+			[
+				"css/st",
+				"public\\css\\style.css"
+			],
+			[
+				"src/illuminate/database/connectors/connector.php",
+				"vendor\\laravel\\framework\\src\\Illuminate\\Database\\Connectors\\Connector.php"
+			],
+			[
+				"data",
+				"config\\database.php"
+			],
+			[
+				"basic/ag01maintain.php",
+				"basic\\ag01maintain.php"
+			],
+			[
+				"basic/ag02maintain.php",
+				"basic\\ag02maintain.php"
+			],
+			[
+				"sec/se01_4maintain.php",
+				"sec\\se01_4maintain.php"
+			],
+			[
+				"lb/sql",
+				"lib\\Sql_ra01.inc"
+			],
+			[
+				"sec/sep02.php",
+				"sec\\sep02.php"
+			],
+			[
+				"sec/",
+				"sec\\ln01detail.php"
+			],
+			[
+				"sec/sep06.php",
+				"sec\\sep06.php"
+			],
+			[
+				"basic/formstock_lo.php",
+				"basic\\formstock_loout.php"
+			],
+			[
+				"basic/formstock_chg.php",
+				"basic\\formstock_chgout.php"
+			],
+			[
+				"pda/pda02maintain.php",
+				"pda\\pda02maintain.php"
+			],
+			[
+				"pda/pda02detail2.php",
+				"pda\\pda02detail2.php"
+			],
+			[
+				"lib/m",
+				"lib\\MakeCond_S.php"
+			],
+			[
+				"sec/se01_7maintain.php",
+				"sec\\se01_7maintain.php"
+			],
+			[
+				"pda/pda03amaintain.php",
+				"pda\\pda03amaintain.php"
+			],
+			[
+				"lib/makecond_s.php",
+				"lib\\MakeCond_S.php"
+			],
+			[
+				"pda/pda02detail.php",
+				"pda\\pda02detail.php"
+			],
+			[
+				"pda/pda02detail.ph",
+				"pda\\pda02detail.php"
+			],
+			[
+				"lib/watermark.class.php",
+				"lib\\watermark.class.php"
+			],
+			[
+				"lib/merge_watermark.php",
+				"lib\\merge_watermark.php"
+			],
+			[
+				"lib/images_proc.php",
+				"lib\\images_proc.php"
+			],
+			[
+				"pagego",
+				"lib\\PageGo.php"
+			],
+			[
+				"change",
+				"lib\\ChangeOrder.php"
+			],
+			[
+				"changeor",
+				"james\\ChangeOrder.php"
+			],
+			[
+				"akecond_s.php",
+				"lib\\MakeCond_S.php"
+			],
+			[
+				"lib/pagego",
+				"lib\\PageGo.php"
+			],
+			[
+				"book_show",
+				"sec\\book_show.php.20160530"
+			],
+			[
+				"book_in",
+				"sec\\book_index.php"
+			],
+			[
+				"sec/book_show.php",
+				"sec\\book_show.php"
+			],
+			[
+				"basic/st02maintain.php",
+				"basic\\st02maintain.php"
+			],
+			[
+				"da/pda02maintain.php",
+				"pda\\pda02maintain.php"
+			],
+			[
+				"order02maintain.php",
+				"order\\order02maintain.php"
+			],
+			[
+				"basic/st02detail.php",
+				"basic\\st02detail.php"
+			],
+			[
+				"order/order02maintain.php",
+				"order\\order02maintain.php"
+			],
+			[
+				"ag03n.php",
+				"basic\\ag03n.php"
+			],
+			[
+				"basic/ag03",
+				"basic\\ag03gen.php"
+			],
+			[
+				"basic/ag03m.php",
+				"basic\\ag03m.php"
+			],
+			[
+				"arh/arhrp11out.php",
+				"arh\\arhrp11out.php"
+			],
+			[
+				"lib/sql_",
+				"lib\\Sql_ra01.inc"
+			],
+			[
+				"house/landf011maintain.php",
+				"house\\landf011maintain.php"
+			],
+			[
+				"house/land2nhrpt.php",
+				"house\\land2nhrpt.php"
+			],
+			[
+				"house/land2nhrpt_search.php",
+				"house\\land2nhrpt_search.php"
+			],
+			[
+				"books",
+				"sec\\book_show.php.20160530"
+			],
+			[
+				"book_",
+				"sec\\book_show.php.20160530"
+			],
+			[
+				"sec/se01_15maintain.php",
+				"sec\\se01_15maintain.php"
+			],
+			[
+				"book",
+				"sec\\book_show.php.20160530"
+			],
+			[
+				"test4.php",
+				"ryan\\test4.php"
+			],
+			[
+				"fpdf/chinese.php",
+				"fpdf\\chinese.php"
+			],
+			[
+				"sec/book_index.php",
+				"sec\\book_index.php"
+			],
+			[
+				"sec/sep01out-00-ab.php",
+				"sec\\sep01out-00-ab.php"
+			],
+			[
+				"setting/dbsetup.in",
+				"setting\\DBSetup.inc"
+			],
+			[
+				"apograph/apographsearch.php",
+				"apograph\\apographsearch.php"
+			],
+			[
+				"map.pos.js",
+				"js\\map.pos.js"
+			],
+			[
+				"sql_",
+				"lib\\Sql_ra01.inc"
+			],
+			[
+				"sq",
+				"lib\\Sql_ra01.inc"
+			],
+			[
+				"sql",
+				"lib\\Sql_ra01.inc"
+			],
+			[
+				"sql_r",
+				"james\\Sql_ra01.inc"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
