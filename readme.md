@@ -1,5 +1,4 @@
-# Laravel PHP Framework
-簡易實作頁面<br>
+# Laravel PHP Framework 簡易實作頁面
 # 部落格首頁
 ![image](https://github.com/ryus2002/laravel_test/blob/master/pic/a1.png)
 # 文章清單
